@@ -7,4 +7,5 @@ Try to create a new repository.
 ## Step 2
 Try to create a branch
 
-
+## Step 3
+Committing
